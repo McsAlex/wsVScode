@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exMat5 {
+public class ExemploMat5 {
     public static void main(String[] args) {
         int tam = 3;
         int matrizA[][] = new int[tam][tam];
